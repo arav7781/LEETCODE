@@ -3,12 +3,17 @@
     "2026-10-10": {
       "slugs": [
         "house-robber-ii",
-        "path-sum"
+        "path-sum",
+        "add-digits"
       ],
       "target": 3
     }
   },
   "solutions": {
+    "add-digits": {
+      "date": "2026-10-10",
+      "path": "solutions/0258-add-digits"
+    },
     "house-robber-ii": {
       "date": "2026-10-10",
       "path": "solutions/0213-house-robber-ii"
