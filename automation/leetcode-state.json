@@ -2,7 +2,8 @@
   "days": {
     "2026-10-10": {
       "slugs": [
-        "house-robber-ii"
+        "house-robber-ii",
+        "path-sum"
       ],
       "target": 3
     }
@@ -11,6 +12,10 @@
     "house-robber-ii": {
       "date": "2026-10-10",
       "path": "solutions/0213-house-robber-ii"
+    },
+    "path-sum": {
+      "date": "2026-10-10",
+      "path": "solutions/0112-path-sum"
     }
   },
   "version": 1
