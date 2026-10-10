@@ -1,0 +1,17 @@
+{
+  "days": {
+    "2026-10-10": {
+      "slugs": [
+        "house-robber-ii"
+      ],
+      "target": 3
+    }
+  },
+  "solutions": {
+    "house-robber-ii": {
+      "date": "2026-10-10",
+      "path": "solutions/0213-house-robber-ii"
+    }
+  },
+  "version": 1
+}
